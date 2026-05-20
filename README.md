@@ -1,60 +1,25 @@
-# Data Analysis Portfolio
+# Sales Analysis Project
 
 ## Overview
 
-This repository contains data analysis projects developed using Python, Pandas, Excel, and visualization tools. The objective is to demonstrate practical skills in data cleaning, transformation, statistical analysis, and interpretation of real-world datasets.
+This project demonstrates basic data analysis using Python and Pandas.
 
 ## Skills Demonstrated
 
+- Data Analysis
 - Data Cleaning
 - Data Transformation
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Visualization
+- Pandas
 - Python Programming
-- Pandas
-- NumPy
-- Excel Analysis
-- Problem Solving
+- Business Analytics
 
-## Tools and Technologies
+## Features
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Microsoft Excel
-- Jupyter Notebook
-
-## Sample Projects
-
-### Sales Performance Analysis
-
-- Data cleaning and preparation
-- Trend identification
-- Revenue analysis
-- Visualization of business metrics
-
-### Customer Behavior Analysis
-
-- Data segmentation
-- Statistical summaries
-- Pattern identification
-- Business insights generation
-
-### Data Quality Assessment
-
-- Missing value detection
-- Duplicate analysis
-- Data validation
-- Reporting and documentation
-
-## Purpose
-
-The purpose of this portfolio is to showcase analytical thinking, statistical reasoning, and the ability to transform raw data into meaningful insights for decision-making.
+- Revenue calculations
+- Product performance analysis
+- Summary statistics
+- Data processing using Pandas
 
 ## Author
 
 Ezequiel Soto Piñero
-
-Graduate Student – Applied Mathematics
